@@ -1,19 +1,5 @@
 # custom-components
 
-## Project setup
-```
-npm install
-```
+components文件夹下组件
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+依赖于element-plus axios等库（本来想写原生的，水平有限）
